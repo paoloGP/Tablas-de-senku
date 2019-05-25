@@ -1,10 +1,9 @@
 # Tablas-de-senku
+Maso menos así debería lucir el código.
 
 
 
-
-
-tipo tablero(tipo tab[][9],int opcion){
+tipo tableros(tipo tab[][9],int opcion){
     tipo ingles [9][9] =   {{'x','x','x','x','x','x','x','x','x'},
                             {'x','x','x','O','O','O','x','x','x'},
                             {'x','x','x','O','O','O','x','x','x'},
