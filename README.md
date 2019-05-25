@@ -1,4 +1,9 @@
 # Tablas-de-senku
+
+
+
+
+
 tipo tablero(tipo tab[][9],int opcion){
     tipo ingles [9][9] =   {{'x','x','x','x','x','x','x','x','x'},
                             {'x','x','x','O','O','O','x','x','x'},
